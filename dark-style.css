@@ -47,6 +47,12 @@ header h1 .where{
   background: #303030;
   border:3px solid white;
 }
+header h1 .social{
+  padding: 6px 12px;
+  color:#F7DA03;
+  background: #303030;
+  float: right;
+}
 header h1 .where{
   margin: 0 auto;
 }
