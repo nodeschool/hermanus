@@ -1,4 +1,4 @@
-# hermanus
-NodeSchool - Hermanus, Western Cape, South Africa.
+NodeSchool Hermanus
+===================
 
-http://nodeschool.io/hermanus
+This site was designed by the talented nodeschool-london team.
